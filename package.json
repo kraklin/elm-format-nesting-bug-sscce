@@ -1,0 +1,15 @@
+{
+  "name": "elm-format-nested-lag-sscce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "elm-tooling install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elm-tooling": "^1.10.0"
+  }
+}
