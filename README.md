@@ -19,9 +19,11 @@ The problematic part is in `src/Problem.elm`. If you ran
 time npx elm-format --validate src/Problem.elm
 ```
 
-it will take `elm-format` roughly 20s to finish. See times below for different nesting level.
+it will take `elm-format` roughly 20s to finish. See times below for different nesting levels.
 
 ```
+nesting depth - time
+----------------
 4 - 0.36s
 5 - 0.36s
 6 - 0.36s
