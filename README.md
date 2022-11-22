@@ -1,6 +1,6 @@
 # Elm-format nesting SSCCE
 
-This repsitory contains SSCCE for a bug found in `elm-review`.
+This repsitory contains SSCCE for a [bug found in `elm-review`](https://github.com/avh4/elm-format/issues/778).
 Install everything with 
 
 ```
